@@ -1,5 +1,8 @@
 # F1 Data Scraper
 
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 A Python web scraper that collects Formula 1 race data from the official F1 website (formula1.com) and saves it as CSV files.
 
 ## Features
@@ -25,7 +28,7 @@ A Python web scraper that collects Formula 1 race data from the official F1 webs
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/f1-data-scraper.git
+git clone https://github.com/rronak/f1-data-scraper.git
 cd f1-data-scraper
 ```
 
@@ -76,10 +79,6 @@ f1_data/
 ## Disclaimer
 
 This scraper is for educational and personal use only. Please respect Formula1.com's terms of service and robots.txt. Do not use this tool for commercial purposes or excessive scraping that could impact their servers.
-
-## License
-
-MIT License - feel free to use and modify as needed.
 
 ## Contributing
 
