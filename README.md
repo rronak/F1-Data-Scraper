@@ -87,7 +87,13 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Author
 
-Your Name
+Ronak Jung Rayamajhi
+
+## Contact
+
+**Ronak** - [@rronak](https://github.com/rronak)
+
+**LinkedIn** - [Ronak Rayamajhi](https://www.linkedin.com/in/ronak120)
 
 ## Acknowledgments
 
