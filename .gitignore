@@ -38,6 +38,7 @@ env/
 # Project specific
 f1_data/
 *.csv
+!sample_data/**/*.csv
 page_source.html
 *.log
 
