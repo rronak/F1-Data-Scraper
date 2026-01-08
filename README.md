@@ -72,13 +72,12 @@ f1_data/
 ## Notes
 
 - The scraper runs in headless mode (no browser window)
-- Includes polite delays between requests to avoid overloading the server
 - Sprint sessions are only scraped if they exist for that race
 - Estimated time: ~10-15 minutes per season, ~2-3 hours for all seasons (2018-2025)
 
 ## Disclaimer
 
-This scraper is for educational and personal use only. Please respect Formula1.com's terms of service and robots.txt. Do not use this tool for commercial purposes or excessive scraping that could impact their servers.
+This scraper is for educational and personal use only. 
 
 ## Contributing
 
